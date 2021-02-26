@@ -1,4 +1,4 @@
-# colorGame
+# <h1>**Color Guessing Game**</h1>
 This is a simple color rgb guessing game in which you have to select the correct colorfrom the given Options.
 <br>
 It has two mode of difficulty level.
@@ -7,4 +7,4 @@ it's one of leisure time best game.
 <br>
 Give it a try.
 <br>
-Link : [Click Here!](https://raviruler.github.io/colorGame/index.html)
+Link : ![Click Here!](https://raviruler.github.io/colorGame/index.html)
