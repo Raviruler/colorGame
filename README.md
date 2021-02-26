@@ -1,4 +1,8 @@
-# <h1 text-align: center;>**_Color Guessing Game_**</h1>
+<div align="center">
+  
+# **_Color Guessing Game_**
+
+</div>
 This is a simple color rgb guessing game in which you have to select the correct colorfrom the given Options.
 <br>
 It has two mode of difficulty level.
