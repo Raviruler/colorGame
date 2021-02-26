@@ -6,7 +6,7 @@
 
 This is a simple color rgb guessing game in which you have to select the correct colorfrom the given Options.
 <br>
-![](https://www.teachengineering.org/content/spfun_/maker_challenges/spfun_rgbcolor_maker1_image1.png)
+![](https://i.pinimg.com/originals/3d/75/23/3d75235e29603a8a1a35cf5ee3d2919e.png)
 <br>
 It has two mode of difficulty level.
 <br>
