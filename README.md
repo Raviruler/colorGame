@@ -13,3 +13,5 @@ it's one of leisure time best game.
 Give it a try.
 <br>
 Link : [Click Here!](https://raviruler.github.io/colorGame/index.html)
+
+<div align="center"> :smiley: </div>
