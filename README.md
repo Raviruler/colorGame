@@ -7,4 +7,4 @@ it's one of leisure time best game.
 <br>
 Give it a try.
 <br>
-Link : (Click Here!)[https://raviruler.github.io/colorGame/index.html]
+Link : [Click Here!](https://raviruler.github.io/colorGame/index.html)
